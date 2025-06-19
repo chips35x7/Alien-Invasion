@@ -27,7 +27,7 @@
 
 ## 📷 Screenshots
 
-![alien-invasion-screenshot](https://github.com/user-attachments/assets/f8755cbc-fe67-454a-9bcd-e2b5d9c42839)
+![alien-invasion-screenshot](https://github.com/user-attachments/assets/22d518e3-0df1-4121-98b8-1f089180e551)
 
 ---
 
